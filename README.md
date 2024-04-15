@@ -8,17 +8,7 @@ And I am a software developer with experience in web development and mobile appl
 
 ---
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg' width='40'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg' width='40'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg' width='40'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg' width='40'>
 
 ---
 
