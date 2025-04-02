@@ -15,10 +15,10 @@ And I am a software developer with experience in web development and mobile appl
 ### WorkWork experience
 #### DataWorks/DeveloperTools, Новосибирск/Ташкент – Frontend-разработчик
 March 2020 - January 2024
-[Google doc](https://drive.google.com/file/d/142iuZWzm5RuSIMYJgLsZfl1B_bsTfXo-/view?usp=sharing)
+
 
 ---
-🔭I am currently working on my budget management application. [Backend](https://github.com/vladserikov/financeTracker) [Frontend](https://github.com/vladserikov/frontent-financeTracker)
+
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladserikov&theme=vue) -->
 
